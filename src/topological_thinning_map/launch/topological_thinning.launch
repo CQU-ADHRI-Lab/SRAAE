@@ -1,0 +1,14 @@
+<launch>
+
+
+ 
+  <node name="thinning_purge" type="thinning_purge" pkg="topological_thinning_map" output="screen">
+   <param name="map_topic" value="/map"/>
+  </node>
+
+
+  <node pkg="rviz" type="rviz" name="rviz_robot1" args="-d $(find semantic_rrt)/rviz/semantic_rrt_node.rviz"/>
+</launch>
+
+
+
