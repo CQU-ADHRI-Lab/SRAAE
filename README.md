@@ -1,6 +1,6 @@
-# SRAAE
+# Semantic Region Aware Autonomous Exploration for Multi-Type Map Construction in Unknown Environments
 
-Semantic Region Aware Autonomous Exploration for Multi-Type Map Construction in Unknown Environments
+
 
 ## Overview
 
